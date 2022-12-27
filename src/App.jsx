@@ -1,8 +1,8 @@
 function App() {
 
   return (
-    <div>
-      start from here
+    <div className="text-2xl">
+      start from here       
     </div>
   )
 }
