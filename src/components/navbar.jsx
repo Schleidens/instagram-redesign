@@ -6,7 +6,7 @@ import { FiSend } from 'react-icons/fi'
 
 export default function navbar() {
   return (
-    <div className='flex justify-between md:px-12 px-4  py-4 border-b-2 border-gray-300'>
+    <div className='flex justify-between md:px-12 px-4 py-4 border-b-2 border-gray-300 text-2xl'>
         <div className='flex'> 
           <AiOutlineInstagram />
         </div>
