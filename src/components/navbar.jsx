@@ -6,12 +6,12 @@ import { FiSend } from 'react-icons/fi'
 
 export default function navbar() {
   return (
-    <div className='flex justify-between px-12 py-4 border-b-2 border-gray-300'>
+    <div className='flex justify-between md:px-12 px-4  py-4 border-b-2 border-gray-300'>
         <div className='flex'> 
           <AiOutlineInstagram />
         </div>
 
-        <div className='flex'>
+        <div className='hidden md:flex'>
           <AiOutlineHome/>
           <input type="text" placeholder='Search' className='bg-gray-300 rounded mx-4 w-full text-center text-base outline-none' />
           <AiOutlineHeart />
