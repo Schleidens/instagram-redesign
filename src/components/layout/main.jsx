@@ -1,6 +1,6 @@
 import React from 'react'
-import Stories from './stories'
-import Post from './post'
+import Stories from '../stories'
+import Post from '../post'
 
 export default function mainCompo() {
   return (
