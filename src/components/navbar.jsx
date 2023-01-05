@@ -11,7 +11,7 @@ export default function navbar() {
           <AiOutlineInstagram />
         </div>
 
-        <div className='hidden md:flex'>
+        <div className='hidden md:flex w-full lg:mx-72 md:mx-20'>
           <AiOutlineHome/>
           <input type="text" placeholder='Search' className='bg-gray-300 rounded mx-4 w-full text-center text-base outline-none' />
           <AiOutlineHeart />
