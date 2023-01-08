@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.new__btn{
+    padding: 10px;
+    background: rgb(138,58,185);
+    background: linear-gradient(90deg, rgba(138,58,185,1) 0%, rgba(233,89,80,1) 50%, rgba(252,204,99,1) 100%);     border-radius: 10px;
+}
+
+.btn__svg{
+    color: #ffffff;
+}
