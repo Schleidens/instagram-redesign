@@ -20,7 +20,9 @@ export default function navbar() {
         <div className='flex'>
           <FiSend />
           <div className="rounded">
-            <img src="https://avatars.githubusercontent.com/u/53914451?v=4" className='h-6 rounded-full ml-4' alt="" />
+            <a href="https://github.com/Schleidens" target="_blank">
+              <img src="https://avatars.githubusercontent.com/u/53914451?v=4" className='h-7 rounded-full ml-4' alt="" />
+            </a>
           </div>
         </div>
     </div>
