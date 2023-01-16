@@ -1,4 +1,6 @@
 # Instagram desktop version redesign (responsive)
+![Screen Shot 2023-01-15 at 23 09 09](https://user-images.githubusercontent.com/53914451/212596916-977d7f40-b47b-482c-ad66-cb3dcbe83845.png)
+
 
 
 This project was bootstrapped with **Vite React**
